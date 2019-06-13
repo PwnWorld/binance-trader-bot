@@ -26,6 +26,6 @@ Start:
 python3 binance-trader.py
 
 Contact:
-* [Telegram : cod3r_man](T.me/cod3r_man)
-* [Telegram channel: IT Road Map](T.me/itroadmap)
-* [instagram : root_ahor4](instagram.com/root_ahor4)
+* [Telegram : cod3r_man](https://t.me/cod3r_man)
+* [Telegram channel: IT Road Map](https://t.me/ITRoadMap)
+* [instagram : root_ahor4](www.instagram.com/root_ahor4)
